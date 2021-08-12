@@ -1,0 +1,15 @@
+Warning :
+=========>
+make sure that after encoding, save whole contents of decode folder to anywhere except
+this decode folder..
+Otherwise content will be lost when you perform another encodiong. :(
+
+
+
+
+
+
+
+
+
+Suvankar Pradhan.
